@@ -1,3 +1,6 @@
+import * as dotenv from 'dotenv'
+dotenv.config()
+
 // const http = require("http");
 
 // const server = http.createServer(async (req, res) => {
